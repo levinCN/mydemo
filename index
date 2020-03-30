@@ -1,5 +1,5 @@
 <?php 
 
-	echo 'welcome to my home,everybody.';
+	echo 'welcome to my home';
 
 ?>
