@@ -1,9 +1,4 @@
 <?php 
 
-<<<<<<< HEAD
-	echo 'welcome everybody.';
-=======
 	echo 'welcome to my home';
->>>>>>> 7dad6cbbe88a660a922a8d0934b2afc64a71c71f
-
 ?>
